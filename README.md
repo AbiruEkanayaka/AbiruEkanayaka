@@ -1,5 +1,3 @@
-## Insert Topic Here. 
-
 I’m Abiru Ekanayaka, who's a developer specializing in Rust and Python. I like databases and datastrucures and the whole class of systems programming.
 
 Current main project - https://github.com/AbiruEkanayaka/MemFlux
